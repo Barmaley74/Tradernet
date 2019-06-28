@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tradernet</string>
+    <string name="chooseMarket">SELECT A MARKET</string>
+    <string name="searchPlaceholder">ENTER TICKER</string>
+    <string name="countTickers">NUMBER OF TICKERS</string>
+    <string name="typeTickers">TYPE</string>
+    <string name="emptyTickers">Ticker list is empty</string>
+
+    <string name="about">About</string>
+    <string name="aboutTitle">About application</string>
+    <string name="okButton">OK</string>
+    <string name="tradernetButton">TraderNet</string>
+    <string name="authorButton">Website</string>
+    <string name="aboutMessage">This application based on free Tradernet API\nAuthor - Serhiy Vlasevych</string>
+
+    <string name="loadingTickers">Loading top tickers...</string>
+    <string name="loadingData">Loading data...</string>
+    <string name="failureLoad">Failure build list tickers: </string>
+
+
+</resources>

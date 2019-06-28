@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Tradernet</string>
+    <string name="chooseMarket">ВЫБЕРИТЕ РЫНОК</string>
+    <string name="searchPlaceholder">ВВЕДИТЕ ТИКЕР</string>
+    <string name="countTickers">КОЛИЧЕСТВО ТИКЕРОВ</string>
+    <string name="typeTickers">ТИП</string>
+    <string name="emptyTickers">Список тикеров пуст</string>
+
+    <string name="about">О программе</string>
+    <string name="aboutTitle">О программе</string>
+    <string name="okButton">OK</string>
+    <string name="tradernetButton">TraderNet</string>
+    <string name="authorButton">Website</string>
+    <string name="aboutMessage">Это приложение основано на свободном Tradernet API\nАвтор - Сергей Власевич</string>
+
+    <string name="loadingTickers">Загрузка топ-тикеров...</string>
+    <string name="loadingData">Загрузка данных...</string>
+    <string name="failureLoad">Ошибка построения списка тикеров: </string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countTickers">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="exchangelist">
+        <item>RUS</item>
+        <item>KAZ</item>
+        <item>UKR</item>
+        <item>USA</item>
+        <item>EUR</item>
+        <item>CUR</item>
+    </string-array>
+
+    <string-array name="exchangevalueslist">
+        <item>russia</item>
+        <item>kazakhstan</item>
+        <item>ukraine</item>
+        <item>usa</item>
+        <item>europe</item>
+        <item>currencies</item>
+    </string-array>
+
+    <string-array name="typelist">
+        <item>stocks</item>
+        <item>bonds</item>
+        <item>futures</item>
+        <item>funds</item>
+        <item>indexes</item>
+    </string-array>
+</resources>
